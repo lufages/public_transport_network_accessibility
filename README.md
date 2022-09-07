@@ -8,6 +8,8 @@ ici, exemple de la couverture du syndicat mixte des transports de Clermont Auver
 
 dichotomie du territoire en carreaux de 100mx100m (c'est surement trop)
 
+voir résultats en cartographies dans le notebook
+
 
 
 
