@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_fare_url,agency_timezone,agency_phone,agency_lang
-6192453782601729,T2C,http://www.t2c.fr,,Europe/Paris,04 73 28 56 56,fr
